@@ -1,0 +1,7 @@
+• é possivel criar os projetos usando o vite, que é um novo executor para começar igual ao npm, mas que estar sendo mais usado no mercado (importante aprender)
+
+• Eu uso o comando npm create vite@latest
+
+• Eu sigo selecionando no terminal o que eu quero colocar
+
+• Eu sigo os passos que ele indicar

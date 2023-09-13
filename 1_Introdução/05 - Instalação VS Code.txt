@@ -1,0 +1,7 @@
+• Ao longo do curso o editor utilizado será o VS Code;
+
+• Ele tem algumas vantagens em trabalhar com Node também, como o terminal integrado;
+
+• Além de ser atualizado constantemente, é mantido pela Microsoft;
+
+• Muito utilizado no ambiente corporativo;

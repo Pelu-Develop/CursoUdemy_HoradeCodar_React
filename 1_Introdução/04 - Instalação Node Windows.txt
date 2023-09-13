@@ -1,0 +1,9 @@
+• O download do Node.js é feito no site oficial: nodejs.org;
+
+• Vamos baixar um arquivo .msi, que é o instalador;
+
+• É interessante saber que o npm vem junto do Node;
+
+• Após a instalação podemos testar o Node e o npm em um terminal, para validar a instalação;
+
+• Node que os binários precisam estar no PATH, este passo está na instalação do Node;

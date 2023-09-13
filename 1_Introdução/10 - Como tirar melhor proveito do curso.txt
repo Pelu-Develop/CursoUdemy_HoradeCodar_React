@@ -1,0 +1,9 @@
+• Sempre programe os códigos das aulas!;
+
+• o curso foi planejado sequencialmente, se nçao domina o React não pule aulas, especialmente para os projetos;
+
+• Faça todos os exercícios propostos;
+
+• Tira as suas dúvidas no fórum (Q & A) e responda as dúvidas dos outros alunos que souber;
+
+• Dica extra: assistir primeiro, executar depois;
