@@ -1,0 +1,7 @@
+• A importação pe a maneira que temos de reutilizar o componente;
+
+• Utilizamos a sintaxe: Import X from "./components/X" onde X é o nome do componente;
+
+• Para colocar o componente importado em outro componente, precisamos colocá-lo em forma de tag: <FirstComponent/>;
+
+• E então finalizamos ciclo de importação; 
