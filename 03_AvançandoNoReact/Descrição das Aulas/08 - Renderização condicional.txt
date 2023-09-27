@@ -1,0 +1,5 @@
+• Renderização condicional é quando imprimimos uma parte de template baseado em uma condição;
+
+• Ou seja, utilizando uma checagem com if;
+
+• Isso é interessante em situações como: usuário autenticado/não autenticado;
